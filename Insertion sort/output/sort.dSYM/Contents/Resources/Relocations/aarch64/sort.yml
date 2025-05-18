@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/suptokundu/Documents/Insertion sort/output/sort'
+relocations:     []
+...
